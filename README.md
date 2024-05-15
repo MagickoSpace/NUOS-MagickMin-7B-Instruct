@@ -12,7 +12,7 @@ It is mainly focus on working effectively at 4 Bit Stage of LLM, for cheaper, fa
 
 - Model Weight - [https://huggingface.co/MagickoSpace/NUOS-MagickMin-7B-Instruct](https://huggingface.co/MagickoSpace/NUOS-MagickMin-7B-Instruct)
 - License - MIT
-- Backbone Model - Gemma 7B It
+- Backbone Model - [jojo-ai-mst/rolema-7b-it](https://huggingface.co/jojo-ai-mst/rolema-7b-it)
 
 ## Contributors
 
