@@ -14,6 +14,10 @@ It is mainly focus on working effectively at 4 Bit Stage of LLM, for cheaper, fa
 - License - MIT
 - Backbone Model - [jojo-ai-mst/rolema-7b-it](https://huggingface.co/jojo-ai-mst/rolema-7b-it)
 
+## How to use with langchain
+
+
+
 ## Contributors
 
 - Mark Ranford
